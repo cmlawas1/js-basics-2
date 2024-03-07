@@ -1,0 +1,24 @@
+{
+  "name": "js-basics-2-cmlawas1",
+  "version": "1.0.0",
+  "description": "Lawas, Cresel M. BS Statistics https://github.com/CMSC100-1S2324/js-basics-2-cmlawas1",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMSC100-1S2324/js-basics-2-cmlawas1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMSC100-1S2324/js-basics-2-cmlawas1/issues"
+  },
+  "homepage": "https://github.com/CMSC100-1S2324/js-basics-2-cmlawas1#readme",
+  "dependencies": {
+    "uuid": "^9.0.1",
+    "validator": "^13.11.0"
+  }
+}
